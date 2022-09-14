@@ -1,5 +1,5 @@
 # DIO - Trilha .NET - Programação orientada a objetos
-www.dio.me
+Desafio para implementação de conceitos de POO. A partir de um código já iniciado, foi proposta complementação do código, implementando os pontos abaixo.
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de orientação a objetos, da trilha .NET da DIO.

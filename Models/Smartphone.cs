@@ -9,7 +9,6 @@ namespace DesafioPOO.Models
         protected string Imei;
 
         protected int Memoria;
-        // TODO: Implementar as propriedades faltantes de acordo com o diagrama
 
         public Smartphone(string numero)
         {
